@@ -22,5 +22,5 @@ $ npm run start:dev
 $ npm run start:prod
 ```
 
-## Test
+## Documentation
 > Documentation in route **/api/docs/**
